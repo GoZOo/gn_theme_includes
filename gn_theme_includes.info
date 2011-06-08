@@ -1,0 +1,4 @@
+core = "6.x"
+description = "Add includes templates to template"
+name = "Gnova Theme Includes"
+package = "G-nova"
